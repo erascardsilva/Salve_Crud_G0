@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "/home/erasmo/go/programacao/salve/main.go",
+            "args": [],
+            "name": "debug main.go",
+            "type": "go",
+            "mode": "auto"
+        }
+    ]
+}
