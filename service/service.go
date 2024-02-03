@@ -1,10 +1,10 @@
 package service
 
 import (
+	variav "Salve_Crud_GO/var"
 	"bufio"
 	"fmt"
 	"os"
-	variav "salve/var"
 )
 
 func Escolha(op int) {

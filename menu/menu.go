@@ -1,9 +1,9 @@
 package menu
 
 import (
+	"Salve_Crud_GO/service"
+	variav "Salve_Crud_GO/var"
 	"fmt"
-	"salve/service"
-	variav "salve/var"
 )
 
 func Menu() {

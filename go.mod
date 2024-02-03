@@ -1,4 +1,4 @@
-module salve
+module Salve_Crud_GO
 
 go 1.19
 
